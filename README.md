@@ -14,7 +14,7 @@ $ composer require huynhtuvinh87/yii2-console-runner "*"
 or add
 
 ```
-"toriphes/yii2-console-runner": "*"
+"huynhtuvinh87/yii2-console-runner": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
