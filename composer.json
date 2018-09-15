@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "huynhtuvinh87\\yii2-console-runner\\": ""
+            "huynhtuvinh87\\console\\": ""
         }
     }
 }
